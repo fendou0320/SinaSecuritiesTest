@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SinaSecuritiesTest.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7DB85D29126737F142425D268013FD961C8763CB</string>
+				<key>dateExpires</key>
+				<string>2021/10/28</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>XR94STYVQV.com.sina.sinasecurities.inhouse</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>XR94STYVQV</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SinaSecurities.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>73c8b8ab-b754-4e67-9617-467ab2a9c88a</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.sina.sinasecurities.inhouse</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>XR94STYVQV</string>
+				<key>name</key>
+				<string>Sina Cangshi Fund Sales Co.,Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
